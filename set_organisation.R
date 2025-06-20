@@ -10,5 +10,5 @@ org_item$new(
     data = c(`CC-BY-SA-4.0` = "generic_template/cc_by_sa_4_0.md")
   )
 ) |>
-  org_list$new() -> org
+  org_list$new(git = "https://github.com/ThierryO") -> org
 org$write()
