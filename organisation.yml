@@ -1,0 +1,15 @@
+checklist version: 0.4.3
+info@muscardinus.be:
+  name:
+    en-GB: muscardinus
+  email: info@muscardinus.be
+  orcid: no
+  rightsholder: optional
+  funder: optional
+  license:
+    package:
+      GPL-3.0: generic_template/gplv3.md
+    project:
+      CC-BY-SA-4.0: generic_template/cc_by_sa_4_0.md
+    data:
+      CC-BY-SA-4.0: generic_template/cc_by_sa_4_0.md
