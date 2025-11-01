@@ -9,8 +9,8 @@ info@muscardinus.be:
   funder: optional
   license:
     package:
-      GPL-3.0: generic_template/gplv3.md
+      GPL-3.0: https://raw.githubusercontent.com/inbo/checklist/refs/heads/main/inst/generic_template/gplv3.md
     project:
-      CC-BY-SA-4.0: generic_template/cc_by_sa_4_0.md
+      CC BY-SA 4.0: https://raw.githubusercontent.com/inbo/checklist/refs/heads/main/inst/generic_template/cc_by_sa_4_0.md
     data:
-      CC-BY-SA-4.0: generic_template/cc_by_sa_4_0.md
+      CC BY-NC-SA 4.0: https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/refs/heads/main/4.0/by-nc-sa.markdown
